@@ -12,9 +12,9 @@ header {
     max-width:100%;
 }
 .cover{
-    width:100%;
+    width:102%;
     margin-right: 15px;
-    margin-top:-15px ;
+    margin-top:-15px;
 }
 h1 {
     text-align: center;
@@ -36,7 +36,8 @@ footer{
     color: white;
     padding-left:20px;
     height:250px;
-    margin-top: 150px;
+    background-color: black;
+    margin-top: 315px;
 }
 footer h1, h2,h3,h4,h5,h6{
     color:white
@@ -47,14 +48,11 @@ footer img{
     float:left;
 margin-top: -45px;
 margin-left: -25px;}
-footer{
-    background-color: black;
-    margin-right: -150px
-}
+
 article header{
     background: url(turtle.jpeg) no-repeat;
     background-size:100% 100% ;
-    max-width:100%;
+    width:102%;
     height: 150px;
     padding: 15px;
     border: 2pt solid black;

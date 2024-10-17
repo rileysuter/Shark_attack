@@ -31,11 +31,12 @@ h1 {
 
 
 footer{
-    width: 100%;         
+    width: 102%;         
     color: white;
-    padding-left:20px;
     height:250px;
-    margin-top: 150px;
+    margin-top: 305px;
+    background-color: black;
+    padding-left: 20px;
 }
 footer h1, h2,h3,h4,h5,h6{
     color:white
@@ -46,10 +47,7 @@ footer img{
     float:left;
 margin-top: -45px;
 margin-left: -25px;}
-footer{
-    background-color: black;
-    margin-right: -150px
-}
+
 article {
     background: url(otter.jpeg) no-repeat;
     background-size:100% 100% ;

@@ -47,6 +47,26 @@ body {
     border-bottom: 2px solid #ff3333;
     padding-bottom: 5px;
     }
+
+.dropdown_menu{
+    display:none
+}
+
+.dropdown_menu2{
+    display:none
+}
+
+.menu-container ul li:hover .dropdown_menu2{
+    display:block;
+    margin-bottom: 8px;
+    position:absolute;
+}
+
+.menu-container ul li:hover .dropdown_menu{
+    display:block;
+    margin-left:495px;
+    margin-bottom: 8px;
+}
     
     /* Paragraph Styling */
     article p {
